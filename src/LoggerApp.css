@@ -1,0 +1,22 @@
+/*Т.к. задача не на вертску - я вообще не думал*/
+.app__container{
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+  
+.logger__container{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+  
+.logger__header{
+  font-size: 20px;
+  font-weight: bold;
+}
+  
+.logger__text-field{
+  width: 100%;
+  height: 10em;
+}
