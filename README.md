@@ -1,2 +1,3 @@
-# dasreda
-Test task
+# Тестовое для деловой среды
+
+TypeScript, React(CRA), все компоненты функциональные
